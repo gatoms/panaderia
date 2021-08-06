@@ -1,5 +1,4 @@
-{
-
+[
     {
         "precio":"20$",
         "tipo":"Baguete"
@@ -28,4 +27,4 @@
         "precio":"100$ por pieza",
         "tipo":"jamon"
     }
-}
+]
