@@ -1,5 +1,5 @@
 {
-    "panes":{
+    "panes":[
         {
             "precio":"20$",
             "tipo":"Baguete"
@@ -12,8 +12,8 @@
             "precio":"10$",
             "tipo":"pan integral"
         }
-    }
-,"bizcochos":{
+    ]
+,"bizcochos":[
     {
         "precio":"2$ por unidad",
         "tipo":"margarita"
@@ -30,5 +30,5 @@
         "precio":"100$ por pieza",
         "tipo":"jamon"
     }
-}
+]
 }
