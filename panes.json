@@ -1,123 +1,23 @@
-[
-
-    {
-
-        "deporte": "Fútbol",
-
-        "anio": 1924,
-
-        "sede": "Paris",
-
-        "posicion": 1
-
-    },
-
-    {
-
-        "deporte": "Fútbol",
-
-        "anio": 1928,
-
-        "sede": "Amsterdan",
-
-        "posicion": 1
-
-    },
-
-    {
-
-        "deporte": "Remo",
-
-        "anio": 1932,
-
-        "sede": "Los Angeles",
-
-        "posicion": 3
-
-    },
-
-    {
-
-        "deporte": "Remo",
-
-        "anio": 1948,
-
-        "sede": "Londres",
-
-        "posicion": 2
-
-    },
-
-    {
-
-        "deporte": "Remo",
-
-        "anio": 1948,
-
-        "sede": "Londres",
-
-        "posicion": 3
-
-    },
-
-    {
-
-        "deporte": "Remo",
-
-        "anio": 1952,
-
-        "sede": "Helsinki",
-
-        "posicion": 3
-
-    },
-
-    {
-
-        "deporte": "Básquetbol",
-
-        "anio": 1952,
-
-        "sede": "Helsinki",
-
-        "posicion": 3
-
-    },
-
-    {
-
-        "deporte": "Básquetbol",
-
-        "anio": 1956,
-
-        "sede": "Melbourne",
-
-        "posicion": 3
-
-    },
-
-    {
-
-        "deporte": "Boxeo",
-
-        "anio": 1964,
-
-        "sede": "Tokio",
-
-        "posicion": 3
-
-    },
-
-    {
-
-        "deporte": "Ciclismo",
-
-        "anio": 2000,
-
-        "sede": "Sidney",
-
-        "posicion": 2
-
+{
+    "panes":{
+        "Baguete":{
+            "precio":"20$",
+            
+        }
+        ,"flautin":{
+            "precio":"15$"
+        }
+        ,"pan integral":{
+            "precio":"10$"
+        }
     }
-
-]
+,"bizcochos":{
+    "margarita":{"precio":"2$ por unidad"}
+    ,"pan con grasa":{"precio":"2$ por unidad"}
+    ,"croissant":{
+        "precio":"5$ por unidad"
+    }
+    ,"jamon":{
+        "precio":"100$ por pieza"
+    }
+}
