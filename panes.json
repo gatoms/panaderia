@@ -3,12 +3,12 @@
         {
             "precio":"20$",
             "tipo":"Baguete"
-        }
-        ,{
+        },
+        {
             "precio":"15$",
             "tipo":"Flautin"
-        }
-        ,{
+        },
+        {
             "precio":"10$",
             "tipo":"pan integral"
         }
@@ -17,16 +17,16 @@
     {
         "precio":"2$ por unidad",
         "tipo":"margarita"
-    }
-    ,{
+    },
+    {
         "precio":"2$ por unidad",
         "tipo":"pan con grasa"
-    }
-    ,{
+    },
+    {
         "precio":"5$ por unidad",
         "tipo":"croissant"
-    }
-    ,{
+    },
+    {
         "precio":"100$ por pieza",
         "tipo":"jamon"
     }
