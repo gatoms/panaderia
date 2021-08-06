@@ -1,0 +1,24 @@
+{
+    "panes":{
+        "Baguete":{
+            "precio":"20$",
+            
+        }
+        ,"flautin":{
+            "precio":"15$"
+        }
+        ,"pan integral":{
+            "precio":"10$"
+        }
+    }
+,"bizcochos":{
+    "margarita":{"precio":"2$ por unidad"}
+    ,"pan con grasa":{"precio":"2$ por unidad"}
+    ,"croissant":{
+        "precio":"5$ por unidad"
+    }
+    ,"jamon":{
+        "precio":"100$ por pieza"
+    }
+}
+}
