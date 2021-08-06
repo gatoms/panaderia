@@ -5,29 +5,29 @@
             "tipo":"Baguete"
         }
         ,{
-            "precio":"15$"
+            "precio":"15$",
             "tipo":"Flautin"
         }
         ,{
-            "precio":"10$"
+            "precio":"10$",
             "tipo":"pan integral"
         }
     }
 ,"bizcochos":{
     {
-        "precio":"2$ por unidad"
+        "precio":"2$ por unidad",
         "tipo":"margarita"
     }
     ,{
-        "precio":"2$ por unidad"
+        "precio":"2$ por unidad",
         "tipo":"pan con grasa"
     }
     ,{
-        "precio":"5$ por unidad"
+        "precio":"5$ por unidad",
         "tipo":"croissant"
     }
     ,{
-        "precio":"100$ por pieza"
+        "precio":"100$ por pieza",
         "tipo":"jamon"
     }
 }
