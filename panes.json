@@ -9,22 +9,22 @@
     },
     {
         "precio":"10$",
-        "tipo":"pan integral"
+        "tipo":"Pan integral"
     },
     {
         "precio":"2$ por unidad",
-        "tipo":"margarita"
+        "tipo":"Margarita"
     },
     {
         "precio":"2$ por unidad",
-        "tipo":"pan con grasa"
+        "tipo":"Pan con grasa"
     },
     {
         "precio":"5$ por unidad",
-        "tipo":"croissant"
+        "tipo":"Croissant"
     },
     {
         "precio":"100$ por pieza",
-        "tipo":"jamon"
+        "tipo":"Jamon"
     }
 ]
