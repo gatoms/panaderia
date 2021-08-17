@@ -59,4 +59,64 @@
         "rareza":"1",
 	"srcImg":"carpinchos/14.jpg"
     }
+    {
+        "name":"Carpincho Sonriente 1",
+        "rareza":"2",
+	"srcImg":"carpinchos/boca1.jpg"
+    }
+    {
+        "name":"Carpincho Sonriente 2",
+        "rareza":"2",
+	"srcImg":"carpinchos/boca2.jpg"
+    }
+    {
+        "name":"Carpincho Sonriente 3",
+        "rareza":"2",
+	"srcImg":"carpinchos/boca4.jpg"
+    }
+    {
+        "name":"Carpincho Sonriente 4",
+        "rareza":"2",
+	"srcImg":"carpinchos/boca5.jpg"
+    }
+    {
+        "name":"Carpincho Sonriente 5",
+        "rareza":"2",
+	"srcImg":"carpinchos/boca7.jpg"
+    }
+    {
+        "name":"Carpincho Sonriente 6",
+        "rareza":"2",
+	"srcImg":"carpinchos/boca8.jpg"
+    }
+    {
+        "name":"Carpincho Sonriente 7",
+        "rareza":"2",
+	"srcImg":"carpinchos/boca9.jpg"
+    }
+    {
+        "name":"Carpincho Sonriente 8",
+        "rareza":"2",
+	"srcImg":"carpinchos/boca10.jpg"
+    }
+    {
+        "name":"Carpincho Sonriente 9",
+        "rareza":"2",
+	"srcImg":"carpinchos/boca11.jpg"
+    }
+    {
+        "name":"Carpincho Sonriente 10",
+        "rareza":"2",
+	"srcImg":"carpinchos/boca12.jpg"
+    }
+    {
+        "name":"Carpincho Sonriente 11",
+        "rareza":"2",
+	"srcImg":"carpinchos/boca13.jpg"
+    }
+    {
+        "name":"Carpincho Sonriente 12",
+        "rareza":"2",
+	"srcImg":"carpinchos/boca14.jpg"
+    }
 ]
