@@ -1,0 +1,62 @@
+[
+    {
+        "name":"Carpincho Batman",
+        "rareza":"1",
+	"srcImg":"carpinchos/1.jpg"
+    },
+    {
+        "name":"Carpincho mate",
+        "rareza":"1",
+	"srcImg":"carpinchos/2.jpg"
+    },
+    {
+        "name":"Carpincho peluche",
+        "rareza":"1",
+	"srcImg":"carpinchos/4.jpg"
+    },
+    {
+        "name":"Carpincho fachero",
+        "rareza":"1",
+	"srcImg":"carpinchos/5.jpg"
+    },
+    {
+        "name":"Carpincho y Pajaro",
+        "rareza":"1",
+	"srcImg":"carpinchos/7.jpg"
+    },
+    {
+        "name":"Carpincho y Robert",
+        "rareza":"1",
+	"srcImg":"carpinchos/8.jpg"
+    },
+    {
+        "name":"Carpincho IT",
+        "rareza":"1",
+	"srcImg":"carpinchos/9.jpg"
+    },
+    {
+        "name":"Carpincho y Yacare",
+        "rareza":"1",
+	"srcImg":"carpinchos/10.jpg"
+    }
+    {
+        "name":"Carpincho y Familia",
+        "rareza":"1",
+	"srcImg":"carpinchos/11.jpg"
+    }
+    {
+        "name":"Carpincho cowboy",
+        "rareza":"1",
+	"srcImg":"carpinchos/12.jpg"
+    }
+    {
+        "name":"Carpincho Irlandes",
+        "rareza":"1",
+	"srcImg":"carpinchos/13.jpg"
+    }
+    {
+        "name":"Carpincho IT",
+        "rareza":"1",
+	"srcImg":"carpinchos/14.jpg"
+    }
+]
