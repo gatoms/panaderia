@@ -55,9 +55,234 @@
 	"srcImg":"carpinchos/13.jpg"
     },
     {
-        "name":"Carpincho IT",
+        "name":"Carpincho Nacionalista",
         "rareza":"1",
 	"srcImg":"carpinchos/14.jpg"
+    },
+    {
+        "name":"Carpincho Cabra",
+        "rareza":"1",
+	"srcImg":"carpinchos/16.jpg"
+    },
+    {
+        "name":"Carpincho Boca",
+        "rareza":"1",
+	"srcImg":"carpinchos/17.jpg"
+    },
+    {
+        "name":"Carpincho IT 2",
+        "rareza":"1",
+	"srcImg":"carpinchos/18.jpg"
+    },
+    {
+        "name":"Carpincho IT 3",
+        "rareza":"1",
+	"srcImg":"carpinchos/19.jpg"
+    },
+    {
+        "name":"Carpincho IT 4",
+        "rareza":"1",
+	"srcImg":"carpinchos/20.jpg"
+    },
+    {
+        "name":"Carpincho Lector",
+        "rareza":"1",
+	"srcImg":"carpinchos/21.jpg"
+    },
+    {
+        "name":"Carpincho frutilla",
+        "rareza":"1",
+	"srcImg":"carpinchos/22.jpg"
+    },
+    {
+        "name":"Carpincho frutilla 2",
+        "rareza":"1",
+	"srcImg":"carpinchos/23.jpg"
+    },
+    {
+        "name":"Carpincho caricia",
+        "rareza":"1",
+	"srcImg":"carpinchos/24.jpg"
+    },
+    {
+        "name":"Carpincho pastito",
+        "rareza":"1",
+	"srcImg":"carpinchos/25.jpg"
+    },
+    {
+        "name":"Carpincho naranja",
+        "rareza":"1",
+	"srcImg":"carpinchos/26.jpg"
+    },
+    {
+        "name":"Carpincho dibujado frutilla",
+        "rareza":"1",
+	"srcImg":"carpinchos/27.jpg"
+    },
+    {
+        "name":"Carpincho orejas conejo",
+        "rareza":"1",
+	"srcImg":"carpinchos/28.jpg"
+    },
+    {
+        "name":"Carpincho mate",
+        "rareza":"1",
+	"srcImg":"carpinchos/29.jpg"
+    },
+    {
+        "name":"Carpincho collar floral",
+        "rareza":"1",
+	"srcImg":"carpinchos/30.jpg"
+    },
+    {
+        "name":"Carpincho vestido",
+        "rareza":"1",
+	"srcImg":"carpinchos/31.jpg"
+    },
+    {
+        "name":"Carpincho irlandes 2",
+        "rareza":"1",
+	"srcImg":"carpinchos/32.jpg"
+    },
+    {
+        "name":"Carpincho oreja vaca",
+        "rareza":"1",
+	"srcImg":"carpinchos/34.jpg"
+    },
+    {
+        "name":"Carpincho gaucho",
+        "rareza":"1",
+	"srcImg":"carpinchos/35.jpg"
+    },
+    {
+        "name":"Carpincho munieco",
+        "rareza":"1",
+	"srcImg":"carpinchos/36.jpg"
+    },
+    {
+        "name":"Carpincho monos",
+        "rareza":"1",
+	"srcImg":"carpinchos/38.jpg"
+    },
+    {
+        "name":"Carpincho y pajaro",
+        "rareza":"1",
+	"srcImg":"carpinchos/39.jpg"
+    },
+    {
+        "name":"Carpincho y pajaro 2",
+        "rareza":"1",
+	"srcImg":"carpinchos/40.jpg"
+    },
+    {
+        "name":"Carpincho cumpleanios",
+        "rareza":"1",
+	"srcImg":"carpinchos/41.jpg"
+    },
+    {
+        "name":"Carpincho y gato",
+        "rareza":"1",
+	"srcImg":"carpinchos/42.jpg"
+    },
+    {
+        "name":"Carpincho naranja 2",
+        "rareza":"1",
+	"srcImg":"carpinchos/43.jpg"
+    },
+    {
+        "name":"Carpincho y pajaro 3",
+        "rareza":"1",
+	"srcImg":"carpinchos/44.jpg"
+    },
+    {
+        "name":"Carpincho gaucho 2",
+        "rareza":"1",
+	"srcImg":"carpinchos/47.jpg"
+    },
+    {
+        "name":"Carpincho selfie",
+        "rareza":"1",
+	"srcImg":"carpinchos/48.jpg"
+    },
+    {
+        "name":"Carpincho y pajaro 4",
+        "rareza":"1",
+	"srcImg":"carpinchos/51.jpg"
+    },
+    {
+        "name":"Carpincho y mono 2",
+        "rareza":"1",
+	"srcImg":"carpinchos/52.jpg"
+    },
+    {
+        "name":"Carpincho dona",
+        "rareza":"1",
+	"srcImg":"carpinchos/53.jpg"
+    },
+    {
+        "name":"Carpincho cumpleanios 2",
+        "rareza":"1",
+	"srcImg":"carpinchos/54.jpg"
+    },
+    {
+        "name":"Carpincho con el son",
+        "rareza":"1",
+	"srcImg":"carpinchos/55.jpg"
+    },
+    {
+        "name":"Carpincho y pajaro 5",
+        "rareza":"1",
+	"srcImg":"carpinchos/56.jpg"
+    },
+    {
+        "name":"Carpincho lluvia",
+        "rareza":"1",
+	"srcImg":"carpinchos/57.jpg"
+    },
+    {
+        "name":"Carpincho orejas vaca 2",
+        "rareza":"1",
+	"srcImg":"carpinchos/58.jpg"
+    },
+    {
+        "name":"Carpincho sillon",
+        "rareza":"1",
+	"srcImg":"carpinchos/59.jpg"
+    },
+    {
+        "name":"Carpincho buzzlightyear",
+        "rareza":"1",
+	"srcImg":"carpinchos/60.jpg"
+    },
+    {
+        "name":"Carpincho navidad",
+        "rareza":"1",
+	"srcImg":"carpinchos/61.jpg"
+    },
+    {
+        "name":"Carpincho piano",
+        "rareza":"1",
+	"srcImg":"carpinchos/62.jpg"
+    },
+    {
+        "name":"Carpincho y carpinchitos",
+        "rareza":"1",
+	"srcImg":"carpinchos/63.jpg"
+    },
+    {
+        "name":"Carpincho choclo",
+        "rareza":"1",
+	"srcImg":"carpinchos/64.jpg"
+    },
+    {
+        "name":"Carpincho helado",
+        "rareza":"1",
+	"srcImg":"carpinchos/65.jpg"
+    },
+    {
+        "name":"Carpincho gangster",
+        "rareza":"1",
+	"srcImg":"carpinchos/66.jpg"
     },
     {
         "name":"Carpincho Sonriente 1",
